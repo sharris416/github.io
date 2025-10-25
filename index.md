@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Home
 ---
 
 # Welcome to My TinyML Swarm Intelligence Journey
