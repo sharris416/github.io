@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to My TinyML Swarm Intelligence Journey
 
-I'm documenting my 12-month path toward PhD research in distributed machine learning. This blog explores how resource-constrained embedded systems—like ESP32 microcontrollers—can coordinate through swarm intelligence algorithms to perform distributed machine learning tasks.
+I'm documenting my research journey into distributed machine learning. This blog explores how resource-constrained embedded systems—like ESP32 microcontrollers—can coordinate through swarm intelligence algorithms to perform distributed machine learning tasks.
 
 **Core Question:** How can we build robust, scalable machine learning systems using swarms of resource-constrained devices?
 
