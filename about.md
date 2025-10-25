@@ -109,7 +109,7 @@ All project code is open source and available in my [main research repository](h
 
 Week-by-week updates: [Main Research Repository](https://github.com/sharris416/tinyml-swarm-research/tree/main/weekly-checkins)
 
-## 🎓 Target PhD Programs
+## 🎓 Target Focus
 
 **Research Areas:**
 - Embedded ML / TinyML
