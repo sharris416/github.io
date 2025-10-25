@@ -1,15 +1,13 @@
-# TinyML Swarm Intelligence Journey
 
 **Author:** Steve Harris  
 **GitHub:** [@sharris416](https://github.com/sharris416)  
 **Blog:** [https://sharris416.github.io](https://sharris416.github.io)  
-**Timeline:** October 2025 - October 2026
 
 ---
 
 ## 📖 About This Blog
 
-Blogging my way though a 12-month TinyML Swarm Intelligence journey. I'm exploring how resource-constrained embedded systems (like ESP32 microcontrollers) can coordinate through swarm intelligence algorithms to perform distributed machine learning tasks.
+Blogging my way though a TinyML Swarm Intelligence journey. I'm exploring how resource-constrained embedded systems (like ESP32 microcontrollers) can coordinate through swarm intelligence algorithms to perform distributed machine learning tasks.
 
 ### Background
 
@@ -18,6 +16,10 @@ I hold a **Master's in Information Systems** with a thesis on machine learning f
 - Vintage computing (6502 assembly on VIC-20)
 - Mesh networking (Meshtastic)
 - Linux systems programming
+- Search algorithms and search-based agents
+- Databases and data science
+- Web-based development
+- Electronics, solar power, and the maker/repair community
 
 This blog bridges my existing skills with cutting-edge research in edge AI and bio-inspired computing.
 
@@ -38,7 +40,7 @@ This blog bridges my existing skills with cutting-edge research in edge AI and b
 
 ---
 
-## 📚 Learning Path
+## 📚 Learning Path 
 
 ### Phase 1: Foundations (Months 1-3)
 - Mathematical foundations (linear algebra, calculus, optimization)
@@ -62,6 +64,8 @@ This blog bridges my existing skills with cutting-edge research in edge AI and b
 - Complete system integration
 - Technical report writing
 - Research proposal development
+
+**Warning:** Dates/timing may change without warning
 
 ---
 
@@ -117,7 +121,6 @@ All project code is open source and available in my [main research repository](h
 
 **Week-by-week updates:** [Main Research Repository](https://github.com/sharris416/tinyml-swarm-research/tree/main/weekly-checkins)
 
-**Current Status:** Week 1 - Foundation setup and mathematical refreshers
 
 ---
 
@@ -137,7 +140,7 @@ Interested in collaborating, have questions about the projects, or want to discu
 
 - **GitHub Issues:** Best for technical questions about code
 - **Email:** steve[at]employinginnovation.com
-- **Edge Foundation Discord:** @sjarn
+- **Edge Foundation Discord:** S. Harris --> @sjarn
 
 ---
 
